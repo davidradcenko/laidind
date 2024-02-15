@@ -55,15 +55,15 @@
   }
 }
 @media (max-width: 530px) and (min-width: 320px) {
-  .backIcon3{
+  .backIcon3 {
     bottom: 490px;
   }
-  .break-colum530{
+  .break-colum530 {
     display: block;
     flex-basis: 100%;
     width: 0px;
   }
-  .break-colum-legal{
+  .break-colum-legal {
     display: block;
   }
   .aboutUsMedia-line1 a img {
@@ -85,8 +85,7 @@
   }
 }
 @media (max-width: 760px) and (min-width: 320px) {
-
-  .backIcon1{
+  .backIcon1 {
     top: 542px;
     height: 321px;
   }
@@ -142,19 +141,20 @@
 }
 
 @media (max-width: 364px) and (min-width: 320px) {
-  .backIcon7{
+  .backIcon3 {
+    bottom: 1133px !important;
+  }
+  .backIcon7 {
     bottom: 1122px !important;
   }
-  .backIcon5{
+  .backIcon5 {
     bottom: 1170px !important;
   }
-  .backIcon3{
-    bottom: 850px;
-  }
-  .footer-nav-links{
+ 
+  .footer-nav-links {
     flex-direction: column;
   }
-  .footer-div-partners{
+  .footer-div-partners {
     margin-top: 42px;
   }
   .becoming-trusted-list li:first-child::before {
@@ -163,7 +163,7 @@
 }
 
 @media (max-width: 332px) and (min-width: 320px) {
-  main{
+  main {
     padding-left: 5px !important;
     padding-right: 5px !important;
   }
@@ -256,17 +256,17 @@
 }
 
 @media (max-width: 720px) and (min-width: 320px) {
-  .backIcon7{
+  .backIcon7 {
     display: block;
     bottom: 559px;
   }
-  .backIcon6{
+  .backIcon6 {
     display: none;
   }
-  .backIcon4{
+  .backIcon4 {
     display: none;
   }
-  .backIcon5{
+  .backIcon5 {
     display: block;
     bottom: 648px;
     right: 0px;
@@ -275,10 +275,10 @@
     font-size: 24px;
     line-height: 24px;
   }
-  .Ready-to-start{
+  .Ready-to-start {
     margin-top: 62px;
   }
-  .footer-nav-links{
+  .footer-nav-links {
     margin-top: 60px;
   }
   .Ready-to-start-new-way {
@@ -309,9 +309,7 @@
   .ExploreList3 {
     width: 372px;
   }
- 
 
-  
   .Explore-about-block1-image600 {
     display: none;
   }
@@ -345,16 +343,19 @@
     margin-top: 32px;
   }
 }
-@media (max-width: 529px) and (min-width: 320px) {
-  .backIcon7{
+@media (max-width: 530px) and (min-width: 320px) {
+  .backIcon3 {
+    bottom: 685px;
+  }
+  .backIcon7 {
     bottom: 671px;
   }
-.backIcon5{
-  bottom: 761px;
-}
+  .backIcon5 {
+    bottom: 761px;
+  }
 }
 @media (max-width: 404px) and (min-width: 320px) {
-  .backIcon7{
+  .backIcon7 {
     bottom: 671px;
     left: -24px;
   }
@@ -364,7 +365,6 @@
     width: 230px;
   }
 
- 
   .ExploreList4 li:nth-last-child(3)::before {
     top: -2px;
   }
@@ -382,7 +382,7 @@
   .Ready-to-start-buttons {
     width: 100% !important;
   }
-  
+
   .ExploreList3 li:nth-last-child(1)::before,
   .ExploreList4 li:nth-last-child(1)::before {
     top: -2px;
@@ -393,7 +393,6 @@
     padding-left: 10px;
     padding-right: 10px;
   }
- 
 }
 @media (max-width: 342px) and (min-width: 320px) {
   .break-colum-last2media,
