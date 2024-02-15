@@ -1,0 +1,30 @@
+@media (min-width: 1920px) {
+  .main-container {
+    width: 1504px;
+    overflow: visible;
+  }
+
+  /* footer styles start  */
+  .footer-nav-links {
+    margin-top: 41px;
+  }
+
+  footer {
+    margin-top: 66px;
+    padding: 0px;
+  }
+
+  .Copyright {
+    margin-top: 6px;
+    margin-bottom: 40px;
+  }
+  .one-place-content::after {
+    content: url("..//img/one-place-block/Rectangle1.svg");
+    left: -56px;
+  }
+  .one-place-content::before {
+    content: url("..//img/one-place-block/Rectangle2.svg");
+    right: -55px;
+  }
+  /* footer styles end  */
+}

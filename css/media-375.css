@@ -1,0 +1,407 @@
+@media (max-width: 663px) and (min-width: 320px) {
+  .bnb-chain-full-binance-smart-chain-logo {
+    width: 100px;
+    height: 17.27px;
+  }
+
+  .ethereum-eth-logo-full-horizontal {
+    width: 100px;
+    height: 25.22px;
+  }
+
+  .litecoin-ltc-logo-full {
+    width: 100px;
+    height: 28.37px;
+  }
+  .tron-trx-logo-full {
+    width: 100px;
+    height: 37.8px;
+  }
+  .solana-sol-logo-horizontal {
+    width: 100px;
+    height: 25.16px;
+  }
+  .bitcoin-btc-logo-full {
+    width: 100px;
+    height: 20.3px;
+  }
+  .op-wmk {
+    width: 100px;
+    height: 20.28px;
+  }
+  .MORE {
+    background-image: url("../img/about-us/MORE-display-No.svg");
+    width: 93px !important;
+    height: 14px;
+  }
+  .MORE:hover {
+    background-image: url("../img/about-us/MORE-display-Yes.svg");
+  }
+
+  .footer-div-Legal,
+  .footer-div-Contact-support {
+    /* margin-top: 56px !important; */
+  }
+
+  .breake-line {
+    display: block;
+    flex-basis: 100%;
+    width: 0px;
+  }
+
+  .footer-div-Contact-support {
+    /* margin-left: 8px; */
+    margin-top: 42px;
+  }
+}
+@media (max-width: 530px) and (min-width: 320px) {
+  .backIcon3{
+    bottom: 490px;
+  }
+  .break-colum530{
+    display: block;
+    flex-basis: 100%;
+    width: 0px;
+  }
+  .break-colum-legal{
+    display: block;
+  }
+  .aboutUsMedia-line1 a img {
+    width: 100px;
+  }
+  .nonimage {
+    width: 100px;
+  }
+  .break-colum-legal {
+    display: block;
+    flex-basis: 100%;
+    width: 0px;
+  }
+  .break-colum {
+    display: none;
+  }
+  .footer-div-Legal {
+    margin-top: 42px;
+  }
+}
+@media (max-width: 760px) and (min-width: 320px) {
+
+  .backIcon1{
+    top: 542px;
+    height: 321px;
+  }
+  main {
+    padding: 0 16px;
+  }
+  .navigation {
+    margin-top: 0px;
+  }
+  .WALLMER-list {
+    display: none;
+  }
+  .WALLMER {
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+  }
+
+  .WALLMER-display-list-tails .WALLMER-list {
+    display: block;
+    margin-top: 16px;
+  }
+  .becoming-trusted-list li:first-child {
+    margin-top: 0px;
+  }
+  .deleteword {
+    display: none;
+  }
+  .WALLMER-header h1:first-child {
+    color: rgba(154, 227, 255, 1);
+    text-align: center;
+    line-height: 30px;
+  }
+
+  .WALLMER-image-block {
+    margin-top: 10px;
+  }
+  .WALLMER-list-tails,
+  .WALLMER-display-list-tails .WALLMER-button {
+    margin-top: 40px !important;
+  }
+  .WALLMER-button {
+    margin-left: 0px;
+    width: 343px;
+    height: 40px;
+    font-size: 16px;
+  }
+
+  .navigation {
+    padding-top: 16px;
+  }
+}
+
+@media (max-width: 364px) and (min-width: 320px) {
+  .backIcon7{
+    bottom: 1122px !important;
+  }
+  .backIcon5{
+    bottom: 1170px !important;
+  }
+  .backIcon3{
+    bottom: 850px;
+  }
+  .footer-nav-links{
+    flex-direction: column;
+  }
+  .footer-div-partners{
+    margin-top: 42px;
+  }
+  .becoming-trusted-list li:first-child::before {
+    top: 6px;
+  }
+}
+
+@media (max-width: 332px) and (min-width: 320px) {
+  main{
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+  }
+  .becoming-trusted-list li:last-child::before {
+    top: 6px;
+  }
+}
+@media (max-width: 344px) and (min-width: 320px) {
+  .WALLMER-header h1:last-child {
+    font-size: 16px;
+  }
+}
+@media (max-width: 333px) and (min-width: 320px) {
+  .aboutUsMedia-line1 a img {
+    width: 90px;
+  }
+}
+@media (max-width: 767px) and (min-width: 320px) {
+  .main-container {
+    width: 100%;
+  }
+
+  .logo a img {
+    width: 120px;
+    height: 24.348px;
+  }
+
+  .nav-icon-5 {
+    width: 24px;
+    height: 7px;
+  }
+
+  .nav-icon-5 span {
+    height: 0.5px;
+  }
+
+  footer {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .navigation {
+    /* padding: 0px  16px; */
+  }
+  .footer-div-Company p,
+  .footer-div-partners p,
+  .footer-div-Legal p,
+  .footer-div-Contact-support p,
+  .footer-div-Contact-Follow p {
+    font-size: 20px;
+    line-height: 26px;
+  }
+
+  .footer-div-Company li,
+  .footer-div-partners li,
+  .footer-div-Legal li,
+  .footer-div-Contact-support li,
+  .footer-div-Contact-Follow li {
+    font-size: 18px;
+    line-height: 26px;
+  }
+
+  .break-colum {
+    /* display: none; */
+  }
+
+  .footer-div-Contact-support {
+    margin-top: 42px;
+  }
+
+  .footer-div-Contact-Follow {
+    margin-top: 42px;
+  }
+
+  .footer-div-Contact-Follow div a img {
+    width: 24px;
+    height: 24px;
+  }
+
+  .Copyright {
+    margin: 0 auto;
+    margin-top: 32px;
+    margin-bottom: 15px;
+    width: 228px;
+  }
+
+  .header-nav li {
+    font-size: 22px;
+  }
+}
+
+@media (max-width: 720px) and (min-width: 320px) {
+  .backIcon7{
+    display: block;
+    bottom: 559px;
+  }
+  .backIcon6{
+    display: none;
+  }
+  .backIcon4{
+    display: none;
+  }
+  .backIcon5{
+    display: block;
+    bottom: 648px;
+    right: 0px;
+  }
+  .Ready-to-start-title {
+    font-size: 24px;
+    line-height: 24px;
+  }
+  .Ready-to-start{
+    margin-top: 62px;
+  }
+  .footer-nav-links{
+    margin-top: 60px;
+  }
+  .Ready-to-start-new-way {
+    margin-top: 16px;
+    line-height: 24px;
+    font-size: 16px;
+    width: 255px;
+    align-items: center;
+  }
+  .Ready-to-start-ready {
+    font-size: 24px;
+    line-height: 24px;
+    margin-top: 16px;
+  }
+  .Ready-to-start-buttons button {
+    font-size: 16px;
+    width: 343px !important;
+    height: 40px !important;
+  }
+
+  .Explore-about .Explore-about-block1:nth-child(2n-4) .Explore-about-about {
+    order: 2;
+  }
+
+  .ExploreList2 {
+    width: 372px;
+  }
+  .ExploreList3 {
+    width: 372px;
+  }
+ 
+
+  
+  .Explore-about-block1-image600 {
+    display: none;
+  }
+  .Explore-about-block1-image320 {
+    display: block;
+    margin-top: 56px;
+    margin-top: 32px;
+  }
+  .Explore-about-about-title {
+    display: none;
+  }
+  .Explore-about-block1 {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .Explore-about-about-title-display {
+    display: block;
+    font-family: "SF Pro Display-700";
+    color: rgba(154, 227, 255, 1);
+    text-align: center;
+    width: 100%;
+    text-transform: uppercase;
+  }
+  .Explore h1 {
+    width: 100%;
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .Explore-trusted-list li:first-child {
+    margin-top: 32px;
+  }
+}
+@media (max-width: 529px) and (min-width: 320px) {
+  .backIcon7{
+    bottom: 671px;
+  }
+.backIcon5{
+  bottom: 761px;
+}
+}
+@media (max-width: 404px) and (min-width: 320px) {
+  .backIcon7{
+    bottom: 671px;
+    left: -24px;
+  }
+  .Explore-about
+    .Explore-about-block1:last-child
+    .Explore-about-about-title-display {
+    width: 230px;
+  }
+
+ 
+  .ExploreList4 li:nth-last-child(3)::before {
+    top: -2px;
+  }
+  .ExploreList2,
+  .ExploreList3,
+  .ExploreList4 {
+    width: 100%;
+  }
+}
+@media (max-width: 382px) and (min-width: 320px) {
+  .WALLMER-button {
+    width: 100%;
+  }
+  .Ready-to-start-buttons button,
+  .Ready-to-start-buttons {
+    width: 100% !important;
+  }
+  
+  .ExploreList3 li:nth-last-child(1)::before,
+  .ExploreList4 li:nth-last-child(1)::before {
+    top: -2px;
+  }
+}
+@media (max-width: 358px) and (min-width: 320px) {
+  main {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+ 
+}
+@media (max-width: 342px) and (min-width: 320px) {
+  .break-colum-last2media,
+  .break-colum-aboutUs2 {
+    display: none;
+  }
+  .last-media,
+  .beforlastl-media {
+    display: block;
+  }
+}

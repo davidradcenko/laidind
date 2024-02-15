@@ -1,0 +1,380 @@
+
+
+@media (max-width: 1024px) and (min-width: 320px){
+  .backIcon6{
+    bottom: 508px;
+  }
+  .backIcon4{
+    bottom: 603px;
+  }
+ .backIcon3{
+    bottom: 306px;
+  }
+
+  .backIcon1{
+    display: none;
+  }
+  .backIcon2{
+    position: absolute;
+    display: block;
+    top: 452px;
+    width: 100%;
+  }
+.footer-div-Contact-Follow{
+  order: 2;
+}
+.footer-div-Contact-Follow2{
+  order: 1;
+}
+}
+@media (max-width: 761px) and (min-width: 320px){
+  .backIcon2{
+    position: absolute;
+    display: block;
+    top: 652px;
+    width: 100%;
+  }
+}
+@media (max-width: 610px) and (min-width: 320px){
+  .backIcon2{
+    position: absolute;
+    display: block;
+    top: 722px;
+    width: 100%;
+  }
+}
+@media (max-width: 375px) and (min-width: 320px){
+  .backIcon2{
+    position: absolute;
+    display: block;
+    top: 746px;
+    width: 100%;
+  }
+}
+@media (max-width: 353px) and (min-width: 320px){
+  .backIcon2{
+    position: absolute;
+    display: block;
+    top: 776px;
+    width: 100%;
+  }
+}
+@media (max-width: 320px) and (min-width: 320px){
+  .backIcon2{
+    position: absolute;
+    display: block;
+    top: 798px;
+    width: 100%;
+  }
+}
+@media (max-width: 1024px) {
+  .break-colum-aboutUs {
+    display: none;
+  }
+  .beforlastl-media,
+  .last-media{
+    display: none;
+  }
+  .break-colum-last2media{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .aboutUsMedia{
+    margin-top: 23px;
+  }
+  .break-colum-aboutUs2 {
+    display: block;
+    flex-basis: 100%;
+    width: 0px;
+  }
+  .WALLMER-header h1:first-child {
+    font-size: 30px;
+  }
+  .WALLMER-header h1:last-child {
+    font-size: 20px;
+  }
+  .becoming-trusted-list li {
+    font-size: 16px;
+  }
+  .WALLMER-list {
+    margin-top: 48px;
+  }
+  .WALLMER-list-tails {
+    width: 336px;
+  }
+  .WALLMER-list-tails {
+    display: none;
+  }
+
+  .WALLMER-display-list-tails .WALLMER-list-tails {
+    display: block;
+    margin-top: 0px;
+    width: 100%;
+    display: flex;
+  }
+
+  .WALLMER-display-list-tails .WALLMER-button {
+    display: block;
+    margin-top: 35px;
+    margin-left: 0px;
+    justify-content: center;
+  }
+
+  .WALLMER-button {
+    display: none;
+  }
+  .WALLMER-display-list-tails {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+  }
+  .WALLMER {
+    flex-wrap: wrap;
+  }
+  .WALLMER-break-colum {
+    display: block;
+    flex-basis: 100%;
+    width: 0px;
+  }
+  .burger-conteiner-open {
+    top: 45px;
+  }
+
+  .main-container {
+    /* width: 768px; */
+    width: 100%;
+  }
+
+  .burger-conteiner {
+    display: none;
+  }
+
+  .header-menu {
+    height: 18px;
+    display: flex;
+    justify-content: end;
+  }
+
+  header {
+    justify-content: space-between;
+  }
+
+  .logo {
+    height: 18.8px;
+  }
+
+  .logo ::after {
+    background: inherit;
+  }
+
+  footer {
+    margin-top: 0px;
+    padding-left: 31px;
+    padding-right: 31px;
+  }
+
+  .footer-div-Company p,
+  .footer-div-partners p,
+  .footer-div-Legal p,
+  .footer-div-Contact-support p,
+  .footer-div-Contact-Follow p {
+    font-size: 24px;
+    line-height: 26px;
+  }
+
+  .footer-div-Company li,
+  .footer-div-partners li,
+  .footer-div-Legal li,
+  .footer-div-Contact-support li,
+  .footer-div-Contact-Follow li {
+    font-size: 18px;
+    line-height: 26px;
+  }
+
+  .footer-nav-links {
+    flex-wrap: wrap;
+  }
+
+  .break-colum {
+    display: block;
+    flex-basis: 100%;
+    width: 0px;
+  }
+
+  .footer-div-Contact-support,
+  .footer-div-Contact-Follow {
+    margin-top: 32px;
+  }
+.break-colum-legal{
+  display: none;
+}
+  .Copyright {
+    margin-top: 32px;
+    font-size: 18px;
+    line-height: 26px;
+  }
+
+  .footer-div-Contact-Follow div a:last-child {
+    margin-right: 0px;
+  }
+
+  .Wallmer-wind-4 .element2 p:last-child {
+    margin-top: 0px;
+    font-size: 12px;
+  }
+
+  .logo {
+    position: relative;
+  }
+  .header-menu {
+    position: relative;
+  }
+
+  .header-baground {
+    position: fixed;
+    top: 0px;
+    z-index: 10;
+    margin-top: 0px;
+    padding-top: 17px;
+    background: #2a2e65;
+    padding-bottom: 17px;
+  }
+
+  .header-nav {
+    flex-direction: column;
+    justify-content: start;
+    align-items: flex-start;
+    margin: 10px;
+    border-image-slice: 0;
+  }
+
+  .header-nav li {
+    border: 0 !important;
+  }
+
+  .header-nav li:hover {
+    border: 0 !important;
+  }
+
+  .Log-in {
+    border: 0 !important;
+  }
+
+  .header-nav {
+    border-bottom: 1px solid rgba(97, 100, 143, 0.8);
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+  }
+
+  .header-nav li:first-child a {
+    background: inherit !important;
+    color: var(--bg-Dark-Grayscale-200);
+  }
+
+  .header-buttons {
+    margin: 0 auto;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+
+  .header-nav li {
+    margin-top: 20px;
+    font-size: 26px;
+  }
+
+  .burger-conteiner-open {
+    position: fixed;
+    top: 45px;
+    left: 0px;
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(
+      180deg,
+      #2a2e65,
+      #282b59 25%,
+      #121321 75%,
+      #121321
+    );
+    z-index: 10;
+  }
+
+  .nav-icon-5 {
+    width: 24px;
+    height: 9.7px;
+    margin: 0px 0px;
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+  }
+
+  .nav-icon-5 span {
+    background-color: #fff;
+    position: absolute;
+    border-radius: 2px;
+    transition: 0.3s cubic-bezier(0.8, 0.5, 0.2, 1.4);
+    width: 100%;
+    height: 3px;
+    transition-duration: 500ms;
+  }
+
+  .nav-icon-5 span:nth-child(1) {
+    top: 0px;
+    left: 0px;
+  }
+
+  .nav-icon-5 span:nth-child(2) {
+    top: 13px;
+    left: 0px;
+    opacity: 1;
+  }
+
+  .nav-icon-5 span:nth-child(3) {
+    bottom: 0px;
+    left: 0px;
+  }
+
+  .nav-icon-5:not(.open):hover span:nth-child(1) {
+    transform: rotate(-3deg) scaleY(1.1);
+  }
+
+  .nav-icon-5:not(.open):hover span:nth-child(2) {
+    transform: rotate(3deg) scaleY(1.1);
+  }
+
+  .nav-icon-5:not(.open):hover span:nth-child(3) {
+    transform: rotate(-4deg) scaleY(1.1);
+  }
+
+  .nav-icon-5.open span:nth-child(1) {
+    transform: rotate(45deg);
+    top: 13px;
+  }
+
+  .nav-icon-5.open span:nth-child(2) {
+    opacity: 0;
+  }
+
+  .nav-icon-5.open span:nth-child(3) {
+    transform: rotate(-45deg);
+    top: 13px;
+  }
+
+  .aboutUsMedia-line1 a img {
+    width: 140px;
+  }
+
+.break-colum-last2media{
+  margin-top: 30px;
+}
+
+
+
+}

@@ -1,0 +1,212 @@
+@media (max-width: 1484px) and (min-width: 320px) {
+  .navigation,
+  main {
+    padding: 0px 37px;
+  }
+}
+
+@media (max-width: 1334px) and (min-width: 320px) {
+  .WALLMER-image-block {
+    width: 320px;
+    height: 256px;
+    margin-top: 70px;
+  }
+  .WALLMER-image1 {
+    width: 320px;
+    height: 256px;
+  }
+  .WALLMER-image2 {
+    width: 266.86px;
+    height: 212.35px;
+    top: 25px;
+    left: 31px;
+  }
+  .WALLMER-image3 {
+    width: 266.86px;
+    height: 212.35px;
+    top: 19px;
+    left: 24px;
+  }
+  .WALLMER-image4 {
+    width: 148.07px;
+    height: 138.31px;
+    top: 50px;
+    left: 82px;
+  }
+  .WALLMER-image5 {
+    width: 21.97px;
+    height: 21.97px;
+    top: 92px;
+    left: 40px;
+  }
+  .WALLMER-image6 {
+    width: 21.97px;
+    height: 21.97px;
+    top: 58px;
+    left: 243px;
+  }
+  .WALLMER-image7 {
+    width: 45.47px;
+    height: 26.68px;
+    top: 135px;
+    left: 10px;
+  }
+
+  .WALLMER-image8 {
+    width: 43.01px;
+    height: 22.18px;
+    top: 200px;
+    left: 245px;
+  }
+
+  .WALLMER-image9 {
+    display: none;
+  }
+
+  .WALLMER-image10 {
+    display: block;
+    position: absolute;
+    top: 176px;
+    left: 72px;
+  }
+}
+
+@media (max-width: 1504px) and (min-width: 720px) {
+  main,
+  footer,
+  header {
+    width: 100%;
+  }
+  main {
+    padding-left: 37px;
+    padding-right: 37px;
+  }
+  .navigation {
+    padding: 0 37px;
+  }
+  .main-container {
+    width: 100% !important;
+  }
+}
+@media (max-width: 1286px) and (min-width: 1024.6px) {
+  .footer-nav-links {
+    flex-wrap: wrap;
+  }
+
+  .footer-nav-links div {
+    /* margin: 20px; */
+  }
+
+  .footer-div-Contact-Follow div {
+    /* margin: 0px; */
+    /* margin-top: 17px; */
+  }
+
+  .media-display-1280 {
+    display: block !important;
+    flex-basis: 100%;
+    width: 0;
+  }
+
+  .media-display-1440 {
+    display: none !important;
+  }
+
+  .footer-div-Contact-support,
+  .footer-div-Contact-Follow {
+    margin-top: 0px !important;
+  }
+
+  .media-about-us-conteiner div {
+    justify-content: space-between;
+    align-items: center !important;
+    gap: 32px !important;
+  }
+
+  .div-Investing {
+    display: none;
+  }
+
+  .Statistic-Ready-to-start-baground-absolute {
+    top: 5686px;
+  }
+  .Statistic-Ready-to-start-baground-absolute {
+    top: 5691px !important;
+  }
+}
+@media (max-width: 1348px) and (min-width: 1024.6px) {
+.backIcon1{
+  top: 723px;
+}
+}
+@media (max-width: 1228px) and (min-width: 1024.6px) {
+  .Banner-info-left-side p:first-child {
+    font-size: 20px;
+    margin-left: 24px;
+  }
+  .Banner-info-left-side p:last-child {
+    margin-left: 19px;
+    font-size: 20px;
+  }
+}
+@media (max-width: 1180px) and (min-width: 720px) {
+
+  main{
+    padding-left: 32px;
+    padding-right: 32px
+  }
+
+
+  .Ready-to-start-title{
+    font-size: 36px;
+  }
+  .Ready-to-start-new-way{
+    font-size: 24px;
+    line-height: 24px;
+    margin-top: 7px;
+  }
+  .Ready-to-start-ready{
+    font-size: 32px;
+  }
+  .wallets360{
+    /* width: 375px !important; */
+    width: 320px;
+    height: 275px;
+  }
+  .ExploreList3{
+    width: 301px;
+  }
+  
+  .alerts360{
+    height: 324px !important;
+  }
+  .ExploreList2{
+    width: 293px;
+  }
+  
+  .Explore-about-about-title {
+    font-size: 18px;
+    margin-top: 75px;
+    width: 320px;
+  }
+  .Explore h1{
+    font-size: 18px;
+    width: 603px;
+    line-height: 32px;
+    
+  }
+  .Explore-trusted-list li {
+    font-size: 14px;
+    line-height: 22px;
+  }
+  .Explore-about-block1-image {
+    width: 320px;
+    height: 292px;
+  }
+  .Explore-about-block1-image320 {
+    display: block;
+  }
+  .Explore-about-block1-image600 {
+    display: none;
+  }
+}
